@@ -1,0 +1,11 @@
+{
+  "name": "com.adobe.aem.workflow-package",
+  "version": "1.0.0",
+  "description": "Delete workflow packages ",
+  "main": "index.js",
+  "author": "Patrique Legault",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
